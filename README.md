@@ -1,1 +1,1 @@
-<img src="/animation15.gif" alt="Here is a little bit about me!" loop="infinite">
+<img src="/animation.gif" alt="Here is a little bit about me!" loop="infinite">
